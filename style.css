@@ -1,0 +1,221 @@
+div p#Exc {
+    background-color: white;
+    height: 600px;
+    width: 900px;
+    text-align: center;
+    border: solid grey;
+}
+#White {
+    position:relative;
+    margin: 0px;
+}
+p {
+      font-family: Verdana, Geneva, Tahoma, sans-serif cursive;
+      font-weight: 400; 
+      margin: 0px;    
+}
+
+#korean-flag {
+    height: 300px;
+    width: 300px;
+    position:absolute;
+    top: 25%;
+    margin-left: 25%;
+}
+
+div div#first-black {
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    transform: rotate(43deg);
+    position: absolute;
+    top: 30px;
+    left: 15%;
+}
+
+div div#second-black {
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    transform: rotate(43deg);
+    position: absolute;
+    top: 55px;
+    left: 17%;
+}
+div div#third-black {
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    transform: rotate(43deg);
+    position: absolute;
+    top: 80px;
+    left: 19%;
+}
+
+div div#first {
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    transform: rotate(145deg);
+    position: absolute;
+    bottom:30px;
+    left: 15%;
+}
+
+div div#second {
+    background-color: black;
+    height: 70px;
+    width: 20px;
+    transform: rotate(145deg);
+    position: absolute;
+    bottom:120px;
+    left: 15%;
+}
+div div#second-cut {
+    background-color: black;
+    height: 70px;
+    width: 20px;
+    transform: rotate(145deg);
+    position: absolute;
+    bottom:53px;
+    left: 237px;
+}
+div div#third {
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    transform: rotate(145deg);
+    position: absolute;
+    bottom:65px;
+    left: 19%;
+}
+
+.for-rotation {
+    transform: rotate(43deg);
+   
+}
+
+div div#first-block {
+    background-color: black;
+    height: 80px;
+    width: 20px;
+    position: absolute;
+    bottom:140px;
+    right: 43%;
+}
+
+div div#second-block {
+    background-color: black;
+    height: 80px;
+    width: 20px;
+    position: absolute;
+    bottom:75px;
+    right: 48%;
+}
+
+div div#third-block {
+    background-color: black;
+    height: 80px;
+    width: 20px;
+    position: absolute;
+    bottom:120px;
+    right: 41%;
+}
+
+div div#fourth-block {
+    background-color: black;
+    height: 80px;
+    width: 20px;
+    position: absolute;
+    bottom:53px;
+    right: 46%;
+}
+
+div div#fifth-block {
+    background-color: black;
+    height: 80px;
+    width: 20px;
+    position: absolute;
+    bottom:98px;
+    right: 39%;
+}
+
+div div#sixth-block {
+    background-color: black;
+    height: 80px;
+    width: 20px;
+    position: absolute;
+    bottom:30px;
+    right: 44%;
+}
+.rotation {
+    transform: rotate(140deg);
+}
+
+div div#two-b {
+    background-color: black;
+    height: 150px;
+    width: 20px;
+    position: absolute;
+    top: 55px;
+    right: 43%;
+}
+div div#one-b {
+    background-color: black;
+    height: 70px;
+    width: 20px;
+    position: absolute;
+    top:105px;
+    right: 39%;
+}
+
+div div#three-b {
+    background-color: black;
+    height: 70px;
+    width: 20px;
+    position: absolute;
+    top:45px;
+    right: 43%;
+}
+div div#four-b {
+    background-color: black;
+    height: 70px;
+    width: 20px;
+    position: absolute;
+    top:145px;
+    right: 43%;
+}
+
+div div#five-b {
+    background-color: black;
+    height: 70px;
+    width: 20px;
+    position: absolute;
+    top:85px;
+    right: 47%;
+}
+
+#font-change {
+   font-family: "Yellowtail", cursive;
+}
+
+#joshua-cute {
+    background-color: whitesmoke;
+    border: solid #C60C30 ;
+    border-width: 20px 10px;
+    position: fixed;
+    right: 10px;
+    top: 25%;
+    text-align: center;
+    height: 25%;
+    width: 15%;
+    border-radius: 45%;
+    padding: 50px;
+    font-size: medium;
+}
+#center {
+    text-align: center;
+    position: relative;
+    top: 10px;
+    right: 0px;
+}
